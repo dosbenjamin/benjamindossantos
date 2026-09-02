@@ -3407,7 +3407,8 @@
           "content": "Standard links invert their colors over 150ms. The padded skip link has no inset or underline and fades in over 150ms; reduced-motion makes every transition immediate.",
           "lineHeight": 1.43,
           "fontFamily": "Schibsted Grotesk",
-          "fontSize": 14
+          "fontSize": 14,
+          "fontWeight": "normal"
         },
         {
           "type": "frame",
@@ -3432,7 +3433,8 @@
                   "content": "Standard link · 16px",
                   "lineHeight": 1.43,
                   "fontFamily": "Schibsted Grotesk",
-                  "fontSize": 14
+                  "fontSize": 14,
+                  "fontWeight": "normal"
                 },
                 {
                   "type": "frame",
@@ -3461,7 +3463,8 @@
                           "content": "GitHub",
                           "lineHeight": 1.5,
                           "fontFamily": "Schibsted Grotesk",
-                          "fontSize": 16
+                          "fontSize": 16,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3496,7 +3499,8 @@
                   "content": "Compact link · 14px",
                   "lineHeight": 1.43,
                   "fontFamily": "Schibsted Grotesk",
-                  "fontSize": 14
+                  "fontSize": 14,
+                  "fontWeight": "normal"
                 },
                 {
                   "type": "frame",
@@ -3561,7 +3565,8 @@
                   "content": "First Tab · skip link · 150ms",
                   "lineHeight": 1.43,
                   "fontFamily": "Schibsted Grotesk",
-                  "fontSize": 14
+                  "fontSize": 14,
+                  "fontWeight": "normal"
                 },
                 {
                   "type": "frame",
@@ -3596,13 +3601,980 @@
                           "content": "Skip to main content",
                           "lineHeight": 1.5,
                           "fontFamily": "Schibsted Grotesk",
-                          "fontSize": 16
+                          "fontSize": 16,
+                          "fontWeight": "normal"
                         }
                       ]
                     }
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Papm9",
+      "x": 6571,
+      "y": 152,
+      "name": "CV A4 — Benjamin Dos Santos",
+      "clip": true,
+      "width": 794,
+      "height": 1123,
+      "fill": "#F2F0EA",
+      "layout": "vertical",
+      "padding": [
+        54,
+        56,
+        42,
+        56
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "XepPb",
+          "name": "CV header",
+          "width": "fill_container",
+          "height": 126,
+          "justifyContent": "space_between",
+          "children": [
+            {
+              "type": "frame",
+              "id": "f9gQ5V",
+              "name": "Identity",
+              "width": 410,
+              "layout": "vertical",
+              "gap": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Q5QghA",
+                  "name": "Benjamin Dos Santos",
+                  "fill": "#141412",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Benjamin\nDos Santos",
+                  "lineHeight": 1.02,
+                  "fontFamily": "Schibsted Grotesk",
+                  "fontSize": 24,
+                  "fontWeight": "600",
+                  "letterSpacing": -0.4
+                },
+                {
+                  "type": "frame",
+                  "id": "cSwXX",
+                  "name": "Role and availability",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "oq6Qp",
+                      "name": "Role",
+                      "fill": "#141412",
+                      "content": "Full-Stack Engineer",
+                      "lineHeight": 1.3,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 16,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "fwBrL",
+              "name": "Contact details",
+              "width": 225,
+              "layout": "vertical",
+              "gap": 5,
+              "alignItems": "end",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "e4tbB",
+                  "name": "Location",
+                  "fill": "#141412",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Belgium / Remote",
+                  "lineHeight": 1.35,
+                  "textAlign": "right",
+                  "fontFamily": "Schibsted Grotesk",
+                  "fontSize": 11.5,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "WSIQp",
+                  "name": "Email",
+                  "fill": "#141412",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "hello@benjamindossantos.be",
+                  "lineHeight": 1.35,
+                  "textAlign": "right",
+                  "fontFamily": "Schibsted Grotesk",
+                  "fontSize": 11.5,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "ujlkT",
+                  "name": "Phone",
+                  "fill": "#141412",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "+32 478 68 69 02",
+                  "lineHeight": 1.35,
+                  "textAlign": "right",
+                  "fontFamily": "Schibsted Grotesk",
+                  "fontSize": 11.5,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "zYXm0",
+                  "name": "Phone",
+                  "fill": "#141412",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "benjamindossantos.be",
+                  "lineHeight": 1.35,
+                  "textAlign": "right",
+                  "fontFamily": "Schibsted Grotesk",
+                  "fontSize": 11.5,
+                  "fontWeight": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "TzLoP",
+          "name": "CV content",
+          "width": "fill_container",
+          "height": 815,
+          "layout": "vertical",
+          "padding": [
+            34,
+            0,
+            26,
+            0
+          ],
+          "justifyContent": "space_between",
+          "children": [
+            {
+              "type": "frame",
+              "id": "CDqMb",
+              "name": "Profile section",
+              "width": "fill_container",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "IpEKD",
+                  "name": "Profile label column",
+                  "width": 170,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ua3to",
+                      "name": "Profile label",
+                      "fill": "#6F6B63",
+                      "content": "Profile",
+                      "lineHeight": 1.4,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 11,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tQwkm",
+                  "name": "Profile content",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "GYxsP",
+                      "name": "Profile statement",
+                      "fill": "#141412",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "I design, build and deploy modern web applications with a focus on performance, maintainability and scalability. My work spans SaaS products, business applications, e-commerce, headless CMS architectures and cloud infrastructure.",
+                      "lineHeight": 1.45,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "hVAJv",
+              "name": "Experience section",
+              "width": "fill_container",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "dMPih",
+                  "name": "Experience label column",
+                  "width": 170,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "x4PgK",
+                      "name": "Experience label",
+                      "fill": "#6F6B63",
+                      "content": "Experience",
+                      "lineHeight": 1.4,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 11,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Cujzg",
+                  "name": "Experience content",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 20,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "DTfxR",
+                      "name": "Full-Stack Engineer",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 3,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "lXA58",
+                          "name": "Full-Stack Engineer heading",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "gGAsR",
+                              "name": "Full-Stack Engineer title",
+                              "fill": "#141412",
+                              "textGrowth": "fixed-width",
+                              "width": 285,
+                              "content": "Full-Stack Engineer",
+                              "lineHeight": 1.35,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "HkvpF",
+                              "name": "Full-Stack Engineer meta",
+                              "fill": "#7C786F",
+                              "textGrowth": "fixed-width",
+                              "width": 175,
+                              "content": "Independent · 2024—Now",
+                              "lineHeight": 1.4,
+                              "textAlign": "right",
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "GrsyN",
+                          "name": "Full-Stack Engineer description",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Delivering end-to-end web applications, from discovery to production, with a focus on performance, maintainability, scalability, integrations and automation.",
+                          "lineHeight": 1.38,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 11.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "QMpIG",
+                      "name": "Full-Stack Developer · Sanserif",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 3,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "G2jfrW",
+                          "name": "Full-Stack Developer · Sanserif heading",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "jrm0Q",
+                              "name": "Full-Stack Developer · Sanserif title",
+                              "fill": "#141412",
+                              "textGrowth": "fixed-width",
+                              "width": 285,
+                              "content": "Full-Stack Developer · Sanserif",
+                              "lineHeight": 1.35,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "rdF6o",
+                              "name": "Full-Stack Developer · Sanserif meta",
+                              "fill": "#7C786F",
+                              "textGrowth": "fixed-width",
+                              "width": 175,
+                              "content": "Freelance  ·  2021—Now",
+                              "lineHeight": 1.4,
+                              "textAlign": "right",
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "V6tggU",
+                          "name": "Full-Stack Developer · Sanserif description",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Custom websites and e-commerce solutions, from headless CMS integration to front-end development. Contributed to infrastructure, deployment and technical improvements across multiple client projects.",
+                          "lineHeight": 1.38,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 11.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "AkTx9",
+                      "name": "Front-End Developer · Certinergie",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 3,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "HTwMF",
+                          "name": "Front-End Developer · Certinergie heading",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "NNNAY",
+                              "name": "Front-End Developer · Certinergie title",
+                              "fill": "#141412",
+                              "textGrowth": "fixed-width",
+                              "width": 285,
+                              "content": "Front-End Developer · Certinergie",
+                              "lineHeight": 1.35,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "rBawg",
+                              "name": "Front-End Developer · Certinergie meta",
+                              "fill": "#7C786F",
+                              "textGrowth": "fixed-width",
+                              "width": 175,
+                              "content": "Full-time  ·  2022—2024",
+                              "lineHeight": 1.4,
+                              "textAlign": "right",
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "ym4IR",
+                          "name": "Front-End Developer · Certinergie description",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Contributed to the development of a PropTech SaaS platform, collaborating with backend developers to build user interfaces, integrate APIs and deliver new features in an agile environment.",
+                          "lineHeight": 1.38,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 11.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "xE5Wy",
+                      "name": "Front-End Developer · McArnolds",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 3,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "z6lfLg",
+                          "name": "Front-End Developer · McArnolds heading",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "mOY5I",
+                              "name": "Front-End Developer · McArnolds title",
+                              "fill": "#141412",
+                              "textGrowth": "fixed-width",
+                              "width": 285,
+                              "content": "Front-End Developer · McArnolds",
+                              "lineHeight": 1.35,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "c9TaIt",
+                              "name": "Front-End Developer · McArnolds meta",
+                              "fill": "#7C786F",
+                              "textGrowth": "fixed-width",
+                              "width": 175,
+                              "content": "Full-time  ·  2020—2022",
+                              "lineHeight": 1.4,
+                              "textAlign": "right",
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "SyEuL",
+                          "name": "Front-End Developer · McArnolds description",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Contributed to the development of creative websites and e-commerce solutions, including personalized email campaigns and long-term website maintenance focused on performance and reliability.",
+                          "lineHeight": 1.38,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 11.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "y81H3",
+              "name": "Skills and tools section",
+              "width": "fill_container",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "VBcP5",
+                  "name": "Skills and tools label column",
+                  "width": 170,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "L9spg",
+                      "name": "Skills and tools label",
+                      "fill": "#6F6B63",
+                      "content": "Skills & tools",
+                      "lineHeight": 1.4,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 11,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "N8DJ0t",
+                  "name": "Skills and tools content",
+                  "width": 480,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "ajuuR",
+                      "name": "Development skills",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "padding": [
+                        0,
+                        0,
+                        10,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "g3EoW",
+                          "name": "Development category",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "Development",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "q4kegh",
+                          "name": "Development items",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "TypeScript · Node.js · React.js · Next.js · Astro · Laravel",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "sUflj",
+                      "name": "Data & infrastructure skills",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "padding": [
+                        0,
+                        0,
+                        10,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "HYAmP",
+                          "name": "Data & infrastructure category",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "Data & infrastructure",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "hSASo",
+                          "name": "Data & infrastructure items",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "PostgreSQL · Docker · Linux · Cloudflare · Vercel",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "BjCwQ",
+                      "name": "Platforms & CMS skills",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "padding": [
+                        0,
+                        0,
+                        10,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "BRoDm",
+                          "name": "Platforms & CMS category",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "Platforms & CMS",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "QWha2",
+                          "name": "Platforms & CMS items",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Shopify · Payload CMS · Strapi",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "rqqUZ",
+                      "name": "UI skills",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "padding": [
+                        0,
+                        0,
+                        10,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "ECl1J",
+                          "name": "UI category",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "UI",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "S3K4c",
+                          "name": "UI items",
+                          "fill": "#3F3D38",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Tailwind CSS · Figma",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "YkeJu",
+              "name": "Core strengths section",
+              "width": "fill_container",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zonMC",
+                  "name": "Core strengths label column",
+                  "width": 170,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "fxb5u",
+                      "name": "Core strengths label",
+                      "fill": "#6F6B63",
+                      "content": "Core strengths",
+                      "lineHeight": 1.4,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 11,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Bd2kM",
+                  "name": "Core strengths content",
+                  "width": 480,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "k8t6w",
+                      "name": "Core strengths columns",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "PjLKV",
+                          "name": "Engineering strength",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 4,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "U7JSxd",
+                              "name": "Engineering strength title",
+                              "fill": "#141412",
+                              "content": "Engineering",
+                              "lineHeight": 1.3,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "jaDqi",
+                              "name": "Engineering strength items",
+                              "fill": "#6F6B63",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "Full-stack development\nAPI integration",
+                              "lineHeight": 1.45,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "VJL74",
+                          "name": "Product strength",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 4,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Z8Y6l",
+                              "name": "Product strength title",
+                              "fill": "#141412",
+                              "content": "Product",
+                              "lineHeight": 1.3,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "kDHB6",
+                              "name": "Product strength items",
+                              "fill": "#6F6B63",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "Product development\nE-commerce",
+                              "lineHeight": 1.45,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ynxV9",
+                          "name": "Delivery strength",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 4,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "wcs6F",
+                              "name": "Delivery strength title",
+                              "fill": "#141412",
+                              "content": "Delivery",
+                              "lineHeight": 1.3,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "a3335w",
+                              "name": "Delivery strength items",
+                              "fill": "#6F6B63",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "Cloud infrastructure\nAutomation",
+                              "lineHeight": 1.45,
+                              "fontFamily": "Schibsted Grotesk",
+                              "fontSize": 10.5,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "J5NXEs",
+              "name": "Languages section",
+              "width": "fill_container",
+              "gap": 32,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "CSs7s",
+                  "name": "Languages label column",
+                  "width": 170,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qjg0l",
+                      "name": "Languages section label",
+                      "fill": "#6F6B63",
+                      "content": "Languages",
+                      "lineHeight": 1.4,
+                      "fontFamily": "Schibsted Grotesk",
+                      "fontSize": 11,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ElVeH",
+                  "name": "Languages content",
+                  "width": 480,
+                  "layout": "vertical",
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "pxYTz",
+                      "name": "French language",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "hgcok",
+                          "name": "French language name",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "French",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "y2Sblh",
+                          "name": "French proficiency",
+                          "fill": "#6F6B63",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Native",
+                          "lineHeight": 1.4,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "R7m1fd",
+                      "name": "English language",
+                      "width": "fill_container",
+                      "gap": 24,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "U3Jnw6",
+                          "name": "English language name",
+                          "fill": "#141412",
+                          "textGrowth": "fixed-width",
+                          "width": 144,
+                          "content": "English",
+                          "lineHeight": 1.35,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "algcE",
+                          "name": "English proficiency",
+                          "fill": "#6F6B63",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Intermediate",
+                          "lineHeight": 1.4,
+                          "fontFamily": "Schibsted Grotesk",
+                          "fontSize": 10.5,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "hNyOx",
+          "name": "CV footer",
+          "width": "fill_container",
+          "height": "fill_container",
+          "justifyContent": "end",
+          "alignItems": "end",
+          "children": [
+            {
+              "type": "text",
+              "id": "H5es9",
+              "name": "Page number",
+              "fill": "#141412",
+              "content": "01 / 01",
+              "lineHeight": 1.3,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": 10,
+              "fontWeight": "600",
+              "letterSpacing": 1
             }
           ]
         }
