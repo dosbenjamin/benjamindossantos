@@ -68,14 +68,6 @@ export const portfolioSections: readonly PortfolioSection[] = [
   {
     entries: [
       {
-        description:
-          'Privacy-first wealth tracking platform for managing investments, assets and net worth.',
-        href: 'https://getwealthflow.app',
-        meta: 'SaaS',
-        title: 'Wealthflow',
-        year: 2026,
-      },
-      {
         description: 'International wedding and event planning agency.',
         href: 'https://amamolto.be/en',
         meta: 'Client site',
